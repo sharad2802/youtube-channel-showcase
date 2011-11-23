@@ -29,9 +29,8 @@ There are limited default styles for the plugin, you need to add your own css to
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.png. Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+1. An example showcase output which has been styled with a 3 column layout for channel videos below the showcase video
+
 
 == Changelog ==
 
