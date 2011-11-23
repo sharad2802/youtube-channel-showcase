@@ -39,9 +39,7 @@ There are limited default styles for the plugin, you need to add your own css to
 == Changelog ==
 
 
-== Arbitrary section ==
+== Get in touch ==
 
 Email me at marcrice83 at googlemail.com
-
-== A brief Markdown Example ==
 
