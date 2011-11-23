@@ -41,9 +41,7 @@ There are limited default styles for the plugin, you need to add your own css to
 
 == Arbitrary section ==
 
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
+Email me at marcrice83 at googlemail.com
 
 == A brief Markdown Example ==
 
