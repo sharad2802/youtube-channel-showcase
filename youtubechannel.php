@@ -27,7 +27,7 @@ function ytchannel($atts) {
     $arr = xml2array($str);
     
 	if (empty($arr)) { 
-		echo('Youtube Channel not found');
+		echo('Youtube Channel ' . $channel . ' not found');
 	}
 	 
     $feed = $arr['feed'];
