@@ -20,7 +20,9 @@ e.g.
 
 1. Download plugin and drop it into your plugins directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place a shortcode in your page or post, for example: [ytchannel channel="soccer" showcase="gIHCVA54XnE" limit="6" showcase_width="630" thumbnail_width="200"]
+3. Place a shortcode in your page or post, for example: 
+
+[ytchannel channel="soccer" showcase="gIHCVA54XnE" limit="6" showcase_width="630" thumbnail_width="200"]
 
 == Frequently Asked Questions ==
 
