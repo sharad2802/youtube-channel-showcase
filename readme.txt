@@ -41,7 +41,7 @@ There are limited default styles for the plugin, you need to add your own css to
 == Changelog ==
 
 
-== Get in touch ==
+== Other Notes ==
 
 Email me at marcrice83 at googlemail.com
 
