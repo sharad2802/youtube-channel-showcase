@@ -2,8 +2,7 @@
 Contributors: marcrice83
 Tags: youtube, gallery
 Requires at least: 2.0.2
-Tested up to: 2.1
-Stable tag: 4.3
+Tested up to: 1
 
 Youtube channel gallery - displays list of youtube videos from a channel and showcases a selected video at the top which can be rotated
 
