@@ -10,7 +10,11 @@ Youtube channel gallery - displays list of youtube videos from a channel and sho
 
 Youtube channel gallery - displays list of youtube videos from a channel and showcases a selected video at the top which can be rotated
 
-Users wanting to style the videos to have more than 1 on each line will have to add their own css
+= Limitations of this version
+The following will require css to be created by the user
+Styling the videos to have more than 1 on each line
+Resizing the showcase or thumbnails from the default size
+
 
 == Installation ==
 
