@@ -3,7 +3,7 @@
 Plugin Name: Youtube Channel Plugin
 Plugin URI: http://www.github.com/marcrice83
 Description: Loads a youtube channel onto the page or post via a shortcode
-Version: 1
+Version: 0.1
 Author: Marc Rice
 */
 
@@ -25,7 +25,11 @@ function ytchannel($atts) {
 
     $str = 'http://gdata.youtube.com/feeds/users/'.$channel.'/uploads?max-results='.$limit.'';
     $arr = xml2array($str);
-
+    
+	if (empty($arr)) { 
+		echo('Youtube Channel not found');
+	}
+	 
     $feed = $arr['feed'];
     $entries = $feed['entry'];
     
