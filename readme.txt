@@ -40,6 +40,8 @@ There are limited default styles for the plugin, you need to add your own css to
 
 == Changelog ==
 
+= 12th feb = 
+added in a patch from github - provided by albertocm - better regex for setting video id
 
 == Other Notes ==
 
