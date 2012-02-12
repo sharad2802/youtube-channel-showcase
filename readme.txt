@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: marcrice83
-Tags: youtube channel, youtube gallery, youtube
+Tags: youtube channel, youtube, youtube gallery, embed youtube
 Requires at least: 2.0.2
 Tested up to: 1
 
