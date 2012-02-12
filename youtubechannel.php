@@ -3,7 +3,7 @@
 Plugin Name: Youtube Channel Plugin
 Plugin URI: http://www.github.com/marcrice83
 Description: Loads a youtube channel onto the page or post via a shortcode
-Version: 0.1
+Version: 0.2
 Author: Marc Rice
 */
 

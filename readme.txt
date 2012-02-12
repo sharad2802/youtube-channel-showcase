@@ -10,11 +10,16 @@ Youtube channel gallery - displays list of youtube videos from a channel and sho
 
 Youtube channel gallery - displays list of youtube videos from a channel and showcases a selected video at the top which can be rotated
 
+= Recent Updates = 
+Patch applied to improve the regex for selecting videos (thanks albertocm) - 12th Feb 2012
+
 = Limitations of this version =
 The following will require css to be created by the user
 Styling the videos to have more than 1 on each line
 Resizing the showcase or thumbnails from the default size
 
+= Get in touch =
+Email me at marcrice83 at googlemail.com
 
 == Installation ==
 
@@ -25,6 +30,8 @@ This section describes how to install the plugin and get it working:
 3. Place a shortcode in your page or post, for example: 
 
 [ytchannel channel="soccer" showcase="gIHCVA54XnE" limit="6" showcase_width="630" thumbnail_width="200"]
+
+
 
 == Frequently Asked Questions ==
 
