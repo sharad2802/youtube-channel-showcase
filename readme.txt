@@ -19,7 +19,7 @@ Styling the videos to have more than 1 on each line
 Resizing the showcase or thumbnails from the default size
 
 = Get in touch =
-Email me at marcrice83 at googlemail.com
+Email me at marcrice83 at googlemail dot com
 
 == Installation ==
 
