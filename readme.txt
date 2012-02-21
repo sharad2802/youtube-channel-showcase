@@ -20,6 +20,7 @@ Resizing the showcase or thumbnails from the default size
 
 = Get in touch =
 Email me at marcrice83 at googlemail dot com
+[WordPress](http://wordpress.org/ "Your favorite software") 
 
 == Installation ==
 
